@@ -13,7 +13,7 @@ Soy un apasionado de la ingeniería de datos y aquí encontrarás proyectos rela
 
 ## Tecnologías que Utilizo
 
-- ![Python]([https://images.app.goo.gl/tDDM2xJnteHE568j](https://images.app.goo.gl/hw2eY3RLUUhChfVe8)6)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 - ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
