@@ -22,6 +22,6 @@ Soy un apasionado de la ingeniería de datos y aquí encontrarás proyectos rela
 - ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
-[![LinkedIn]([(https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo0AwnI2nSE2P6ZS10UvJ8A%3D%3D))](https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png)](https://www.linkedin.com/in/felix-contreras-980417142/)
+[![LinkedIn]([(https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo0AwnI2nSE2P6ZS10UvJ8A%3D%3D))](https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png)][(https://www.linkedin.com/in/felix-contreras-980417142/)]
 
 ¡No dudes en explorar mis proyectos y contactarme para cualquier colaboración o pregunta! 😊
