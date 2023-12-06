@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="logoFX.jpg">
+  <img src="logoFX.jpg" width="200">
 </div>
 
 
