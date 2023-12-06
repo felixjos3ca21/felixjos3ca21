@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="logoFX.jpg">
+</div>
+
+
 # ¡Hola, soy Félix Contreras! 👋
 
 Soy un apasionado de la ingeniería de datos y aquí encontrarás proyectos relacionados principalmente con Python. Me especializo en MLOps y disfruto creando soluciones que integran ciencia de datos con la ingeniería de sistemas, utilizando un amplio abanico de librerías como Pandas, scikit-learn, FastAPI, Streamlit, Matplotlib y Seaborn. Aunque mi enfoque principal es Python, también tengo interés en SQL y la ciencia de datos en general.
